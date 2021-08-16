@@ -1,0 +1,5 @@
+C:\Users\chela\AppData\Local\Temporary Projects\Hard\bin\Debug\Hard.exe
+C:\Users\chela\AppData\Local\Temporary Projects\Hard\bin\Debug\Hard.pdb
+C:\Users\chela\AppData\Local\Temporary Projects\Hard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chela\AppData\Local\Temporary Projects\Hard\obj\Debug\Hard.exe
+C:\Users\chela\AppData\Local\Temporary Projects\Hard\obj\Debug\Hard.pdb

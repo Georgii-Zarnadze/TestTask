@@ -1,0 +1,5 @@
+C:\Users\chela\AppData\Local\Temporary Projects\Easy\bin\Debug\Easy.exe
+C:\Users\chela\AppData\Local\Temporary Projects\Easy\bin\Debug\Easy.pdb
+C:\Users\chela\AppData\Local\Temporary Projects\Easy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chela\AppData\Local\Temporary Projects\Easy\obj\Debug\Easy.exe
+C:\Users\chela\AppData\Local\Temporary Projects\Easy\obj\Debug\Easy.pdb
